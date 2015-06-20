@@ -1,7 +1,7 @@
 ReadMe
 ======
 
-The script **run_analysis.R** implements the five tasks required for the 'Getting and Cleaning Data' course project. The source data can be found A [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
+The script **run_analysis.R** implements the five tasks required for the 'Getting and Cleaning Data' course project. The source data can be found [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
 
 The five tasks are as follows:
 
